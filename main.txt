@@ -2,3 +2,4 @@ Hola mundo!
 Esto es un cambio importante.
 
 Quiero un nuevo release
+Permisos agregados
