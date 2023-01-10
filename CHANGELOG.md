@@ -1,3 +1,13 @@
+# [1.2.0](https://github.com/alejandraRamos/semver/compare/v1.1.0...v1.2.0) (2023-01-10)
+
+### Features
+
+- prueba de release ([6554669](https://github.com/alejandraRamos/semver/commit/6554669af647a4766f29a5de6c3109c7997e24ac))
+
+### Other
+
+- update README.md ([d10f0bf](https://github.com/alejandraRamos/semver/commit/d10f0bf1e76c7216955fa9e741b86f6c3f48cbbc))
+
 # [1.1.0](https://github.com/alejandraRamos/semver/compare/v1.0.1...v1.1.0) (2023-01-10)
 
 ### Features
