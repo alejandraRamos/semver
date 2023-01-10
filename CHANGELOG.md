@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/alejandraRamos/semver/compare/v1.2.0...v1.2.1) (2023-01-10)
+
+### Code Refactoring
+
+- permission ([201396d](https://github.com/alejandraRamos/semver/commit/201396d9d1acca70777fff67467be56601df0321))
+
 # [1.2.0](https://github.com/alejandraRamos/semver/compare/v1.1.0...v1.2.0) (2023-01-10)
 
 ### Features
