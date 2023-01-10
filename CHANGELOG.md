@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/alejandraRamos/semver/compare/v1.0.1...v1.1.0) (2023-01-10)
+
+### Features
+
+- prueba de release ([c02de5f](https://github.com/alejandraRamos/semver/commit/c02de5f2c41965ac8737a34cb2fe578867e68121))
+
 ## [1.0.1](https://github.com/alejandraRamos/semver/compare/v1.0.0...v1.0.1) (2023-01-10)
 
 ### Code Refactoring
