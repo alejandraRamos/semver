@@ -24,7 +24,7 @@ jobs:
         id: release
         uses: ridedott/release-me-action@v3
         env:
-          GITHUB_TOKEN: ${{ secrets.semver_access_token }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           dry-run: ${{ env.DRY_RUN }}
           release-branches: '["main"]'
