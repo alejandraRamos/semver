@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/alejandraRamos/semver/compare/v1.0.0...v1.0.1) (2023-01-10)
+
+### Code Refactoring
+
+- new change ([91a66e9](https://github.com/alejandraRamos/semver/commit/91a66e9737c54c0375ad10092bbe02c511008f40))
+
 # 1.0.0 (2023-01-10)
 
 ### Chores
